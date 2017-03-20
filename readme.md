@@ -7,6 +7,6 @@ Listado Clase 1 hack - Promo 7:
 - Ricardo
 - Gabriel
 - Bata
-- Maria elisa
+- Mariaelisa
 - Wilbert
 - Roberto
