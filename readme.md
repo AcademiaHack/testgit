@@ -1,5 +1,5 @@
 Proyecto Test Git
-========
+=================
 
 Listado Clase 1 hack - Promo 7:
 - Alejandro Josue
@@ -8,4 +8,5 @@ Listado Clase 1 hack - Promo 7:
 - Gabriel
 - Bata
 - Maria elisa
-- 
+- Wilbert
+- Roberto
